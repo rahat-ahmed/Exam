@@ -1,0 +1,171 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+
+	margin: 0;
+	padding: 0;
+	background: url("../img/blue.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width:1140px;
+	margin:0 auto;
+	
+
+}
+
+.one{
+	width: 50%;
+	float: left;
+	height: 600px;
+	padding: 20px 0px;
+}
+
+.two{
+	width: 50%;
+	float: left;
+	height: 600px;
+	padding: 30px 0px;
+}
+.one h1 {
+    color: #fff;
+    margin-top: 75px;
+    font-size: 45px;
+}
+.one p {
+    color: #fff;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.fa.fa-check-circle-o{
+	color: #fff;
+}
+
+.fa.fa-check-circle-o{
+	color: #fff;
+}
+
+
+.fa.fa-check-circle-o{
+	color: #fff;
+}
+
+
+.fa.fa-check-circle-o{
+	color: #fff;
+}
+
+
+
+
+.one .btn {
+    background-color: skyblue;
+    padding: 10px 15px;
+    border-radius: 20px;
+    margin-top: 15px;
+    color: #fff;
+    border: none;
+}
+
+
+.one .btn:hover {
+   transform: scale(1.1);
+   box-shadow: 3px 3px 3px yellow;
+}
+
+
+}
+.two{
+	width:50%;
+	float: left;
+
+}
+
+.login-section{
+	       width :400px;
+	       height: 500px;
+        background-color:#3333ff ;
+
+        padding: 20px;
+        float: left;
+         margin:10%;
+        margin:10%;
+        
+
+}
+.login-section img{
+	display: block;
+    margin: 0 auto;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.login-section h3 {
+	text-align: center;
+	color:white;
+	font-size: 30px;
+	font-transform: capitalize;
+font-family: 'Source Serif Pro', serif;
+font-family: 'Abril Fatface', cursive;
+font-family: 'Monoton', cursive;
+font-family: 'Niconne', cursive;
+font-family: 'Lobster', cursive;
+padding:5px;
+
+}
+
+.form-control {
+	 width:97%;
+	 height: 25px;
+	 padding:5px;
+	 margin-bottom:10px;
+
+
+}
+
+
+
+.btn{
+	width:100;
+	margin:0px auto;
+	display: block;
+	background: orange;
+	padding: 6px 15px ;
+	border:none;
+	text-transform:uppercase;
+	transition: 0.8s ease;
+
+
+}
+.btn:hover{
+	box-shadow: 2px 3px 4px black;
+	cursor:pointer;
+
+ }
+.row ul { 
+	list-style: none;
+    
+}
+.row ul li {
+
+     display: inline-block;
+     padding: 10px;
+     margin: 0 25px;
+     height: 40px;
+}
+.row ul li a{
+	color: white;
+	padding: 10px;
+	 height: 40px;
+
+}
+.row ul li a:hover{
+
+	
+	cursor: pointer;
+}
